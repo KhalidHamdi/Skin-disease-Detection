@@ -1,3 +1,11 @@
+# Skin Disease Detection
+
+This GitHub project aims to develop a machine learning model for detecting skin diseases using Python.
+
+
+# Usage
+
+
 Since there isn't enough space to upload the libraries and the model file with the project
 
 you will need to do the following steps.
@@ -21,8 +29,8 @@ pip install Flask
 pip install uuid
 
 
-// don't install this one if you will run without firebase storage.
-pip install firebase_admin
+**don't install this one if you will run without firebase storage**
+'pip install firebase_admin'
 
 
 now the api is ready to be running.
