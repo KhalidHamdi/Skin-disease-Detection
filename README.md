@@ -21,7 +21,7 @@ pip install Flask
 pip install uuid
 
 
-// dont install this one if you will run without firebase storage.
+// don't install this one if you will run without firebase storage.
 pip install firebase_admin
 
 
